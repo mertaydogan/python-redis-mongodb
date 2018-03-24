@@ -1,5 +1,5 @@
 # python-redis-mongodb
-using redis and mongodb with python on windows
+getting data from mongodb and set to redis with python
 
 ## Getting Started
 Main goal of this project helping the beginners on python like me who want to use mongodb and redis at the same python project.
